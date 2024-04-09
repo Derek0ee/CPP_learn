@@ -15,6 +15,6 @@ int main()
     //    cin >> b ;  // cin 的几个状态：
        cout<<b <<endl; 
     }
-    // zhushi
+    // zhushi +2
     return 0;
 }
