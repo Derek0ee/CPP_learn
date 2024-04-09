@@ -1,19 +1,19 @@
-#include<iostream>
+#include <iostream>
+#include <vector>
+#include <string>
 
 using namespace std;
 
-int main ()
+int main()
 {
 
-    int  i =10;
-    int &iix = i;
-    int *p  = &i;
-    int *p1 = &iix;
-    cout<<&i<<p<<endl;
-    cout<<&iix<<p1<<endl;
+    char b;
 
-    //注释
+    while ( 1)
+    {
+        b =getchar();
+    //    cin >> b ;  // cin 的几个状态：
+       cout<<b <<endl; 
+    }
     return 0;
-
-
 }
