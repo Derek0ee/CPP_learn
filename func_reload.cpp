@@ -11,7 +11,7 @@ using namespace std;
     // int  a;
     // int  b;
 
-    
+   
 
     // cout<<"请以【x x】的形式输入两个数，如：1 2 "<<endl;
     // cin>>a>>b;
